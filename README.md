@@ -1,14 +1,12 @@
-# FDV-events
+# FDV-tiles
 
 ![](gif.gif)
 
-## Actividad Eventos
+## Actividad Tilemaps
 
-Se crea la ui del menu principal y eventos en los botones para iniciar el juego
+Actividades a realizar:
 
-existen eventos al recoger monedas y el diamante
-
-cuando se recolecta todas las monedas se desbloquea la puerta del nivel
-
-cuando se recolecta el diamante el jugador lanza el evento que el gamemanager dara como victoria y retornara al menu principal
-
+- Obtener assets que incorpores a tu proyecto para la generación del mapa: planos e isométricos.
+- Incorporar los recursos del punto 1 en el proyecto y generar al menos 2 paletas, para cada uno de los dos tipos de mapas.
+- Generar un mapa convencional, incluir obstáculos y paredes.
+- Generar un mapa isométrico, generar zonas elevadas y obstáculos.
